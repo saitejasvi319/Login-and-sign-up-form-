@@ -1,0 +1,115 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    background: url('img/bg.jpg'); 
+}
+
+
+main{
+    position: absolute;
+    display: block;
+    margin: 100px, 100px, 100px, 100px, auto;
+}
+
+.container{
+    background-color: #162C39;
+    width: 500px;
+    height: 550px;
+    box-sizing: border-box;
+    box-shadow: 0 0 40px 20px;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #b1fcff;
+    margin: 100px 550px auto;
+    display: block;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    padding: 0px;
+}
+
+h3{
+    text-align: center;
+    color: white;
+    margin-top: auto;
+    padding-top: 35px;
+}
+
+.social{
+    margin: 10px auto;
+    text-align: center;
+}
+
+.social img{
+    width: 40px;
+}
+
+.form {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    display: block;
+    width: 350px;
+    padding: 10px;
+    margin: 20px auto;
+    font-size: 14px;
+    border-radius: 50px;
+    
+}
+.submit-btn {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    background-color: #117279;
+    color: white;
+    padding: 5px 20px;
+    text-decoration: none;
+    border-radius: 50px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    display: block;   
+}
+
+.submit-btn:hover {
+    background-color: #003b46;
+}
+
+.check{
+    padding: 10px;
+    text-align: center;
+    display: block;
+    color: rgb(255, 255, 255);
+}
+
+.gotosignup{
+    text-align: center;
+    display: block;
+}
+.gotosignup p{
+    text-align: center;
+    display: block;
+    color: rgb(255, 255, 255);
+}
+
+.btn {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    background-color: #ffffff;
+    width: 100px;
+    color: #117279;
+    padding: 8px 20px;
+    text-decoration: none;
+    border-radius: 50px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    display: block;   
+}
+.btn:hover {
+    background-color: #117279;
+    color: snow;
+}
+
