@@ -26,6 +26,20 @@ main{
     display: block;
 }
 
+.container2{
+    background-color: #162C39;
+    width: 500px;
+    height: 600px;
+    box-sizing: border-box;
+    box-shadow: 0 0 40px 20px;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #b1fcff;
+    margin: 100px 550px auto;
+    display: block;
+}
+
+
 h1{
     text-align: center;
     color: white;
